@@ -1,0 +1,41 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "ライブエフェクター",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "PutYourHandsUpIntent",
+                    "samples": [
+                        "プッチュ ユア ハンズアップ"
+                    ]
+                },
+                {
+                    "name": "ExplosionIntent",
+                    "samples": [
+                        "爆発だ"
+                    ]
+                },
+                {
+                    "name": "GiveMeCheersIntent",
+                    "samples": [
+                        "黄色い声援"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+  }
+  
